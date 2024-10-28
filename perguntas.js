@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'LÍNGUA INGLESA',
     'COMO SE DIZ OI EM INGLÊS?',
-    'OI EM INGLÊs É HI (RAI)'
+    'OI EM INGLÊS É HI (RAI)'
 ) 
